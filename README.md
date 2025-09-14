@@ -1,7 +1,8 @@
 Atualmente no codigo temos 3 comandos, 
-  !online (nick)
-Ele retorna isso caso o player esteja online: <img width="397" height="154" alt="image" src="https://github.com/user-attachments/assets/91c17646-7f55-41ff-a046-c6351ca2c1b0" />
-E isso caso o player esteja offline: <img width="382" height="91" alt="image" src="https://github.com/user-attachments/assets/5d0f3715-d473-4663-bedf-a69d24f73ce7" />
+  !status (nick)
+Ele retorna isso caso o player esteja online: <img width="383" height="157" alt="image" src="https://github.com/user-attachments/assets/9dd47528-71a4-4d35-a81a-6c4e8e84c8b5" />
+E isso caso o player esteja offline: <img width="374" height="150" alt="image" src="https://github.com/user-attachments/assets/47962e7c-7084-4f56-a827-0307a5421cbc" />
+
   !bwnivel (nick) 
 Ele retorna o nivel do jogador no bedwars: <img width="420" height="140" alt="image" src="https://github.com/user-attachments/assets/783a6206-899b-412c-994c-d013a475453e" />
   !bwwins (nick)
