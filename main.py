@@ -13,9 +13,9 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 @bot.command()
-async def online(ctx, nome):
+async def status(ctx, nome):
 
-#comando pra verificar se alguem ta online
+#comando pra verificar o status de algum player
 
     username = f"{nome}"
     url = f"https://mush.com.br/api/player/{username}"
